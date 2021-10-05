@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Core1</string>
+    <string name ="increase">SCORE</string>
+    <string name ="decrease">STEAL</string>
+    <string name ="reset">RESET</string>
+    <string name ="textViewDefault">0</string>
+</resources>
